@@ -29,7 +29,7 @@
     {
       "cell_type": "code",
       "source": [
-        "# 0. Import Libraries & Load Data\n",
+        "# 0. Import Libraries\n",
         "# ===============================\n",
         "\n",
         "# Import Library\n",
